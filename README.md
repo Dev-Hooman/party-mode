@@ -1,5 +1,7 @@
 # PartyMode Web Application
 
+![Project1 16cd0f2e73e6a4d75477](https://github.com/Dev-Hooman/party-mode/assets/80707427/bb37f96b-682f-48c2-b288-79364f925942)
+
 PartyMode is a web application that facilitates event ticket purchasing and management. Users can explore and buy tickets for various events organized by the admin. Authentication is required for ticket purchasing, with options for logging in via Facebook and Google. The application features an admin dashboard to manage payments, tickets, and events. Payment processing is handled through Stripe, and the entire application is developed using the MERN stack (MongoDB, Express.js, React, and Node.js).
 
 ## Key Features
